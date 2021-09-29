@@ -1,0 +1,18 @@
+%YAML:1.0
+---
+
+# the voxelization resolution of the source and target point cloud
+resolution_source:"0.15"
+resolution_target:"0.15"
+
+# 1:use the second-step filter; 0: do not use
+use_prob_kernal:"1"
+# 1: use the first-step filter; 0: do not use
+use_sampling:"1"
+# m: use scan-to-model matching for LiDAR odometry,s:use scan-to-scan matching
+use_scan2model:"s"
+
+# dataset parameter
+kitti_path:"/your/kitti/path/"
+kitti_sequence: "00"
+save_path:""
