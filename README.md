@@ -2,6 +2,10 @@
 
 This package is an improvement of [fast_gicp](https://github.com/SMRT-AIST/fast_gicp) 
 
+Please cite our paper if possible.
+
+W. Jikai, M. Xu, F. Farzin, D. Dai and Z. Chen, "FasterGICP: Acceptance-rejection Sampling based 3D Lidar Odometry," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2021.3124072.
+
 ## Installation
 
 ### Dependencies
